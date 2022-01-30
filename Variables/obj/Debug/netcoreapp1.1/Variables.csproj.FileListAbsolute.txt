@@ -1,0 +1,9 @@
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\bin\Debug\netcoreapp1.1\Variables.deps.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\bin\Debug\netcoreapp1.1\Variables.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\bin\Debug\netcoreapp1.1\Variables.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\bin\Debug\netcoreapp1.1\Variables.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\bin\Debug\netcoreapp1.1\Variables.pdb
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\obj\Debug\netcoreapp1.1\Variables.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\obj\Debug\netcoreapp1.1\Variables.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\obj\Debug\netcoreapp1.1\Variables.dll
+C:\Users\TOSHIBA\Desktop\.NetTrainings\Variables\obj\Debug\netcoreapp1.1\Variables.pdb
